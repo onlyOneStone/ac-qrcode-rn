@@ -1,7 +1,7 @@
 {
-  "name": "ac-qrcode-rn",
-  "version": "0.2.1",
-  "description": "修复了ac-qrcode Proptypes引用错误的BUG",
+  "name": "@sishu/ac-qrcode-rn",
+  "version": "0.2.3",
+  "description": "camera 2.0，修复首次点击允许后Android还在加载中",
   "main": "index.js",
   "readmeFilename": "README.md",
   "scripts": {
